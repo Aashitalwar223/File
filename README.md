@@ -1,1 +1,1 @@
-# internship-project
+Online Retail Recommendation System – A content-based product recommender built with Python, TF-IDF, KNN, and Streamlit. It suggests similar products using product descriptions, provides country-wise & month-wise sales insights, and features interactive visualizations & fuzzy matching for better user input handling.
